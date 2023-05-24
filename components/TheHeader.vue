@@ -3,9 +3,9 @@
         <h1 class="text-center text-6xl font-bold">The Yearbook</h1>
         <p class="text-center text-xl font-semibold">The best yearbook ever</p>
         <div class="flex justify-center">
-            <router-link to="/us" class="mx-2 cursor-pointer">Us</router-link>
+            <router-link to="/" class="mx-2 cursor-pointer">Us</router-link>
             <router-link to="/fun-times" class="mx-2 cursor-pointer">Fun Times</router-link>
-            <router-link to="/" class="mx-2 cursor-pointer">Staff</router-link>
+            <router-link to="/places" class="mx-2 cursor-pointer">Places</router-link>
         </div>
         <div class="flex justify-center">
             <div class="my-3">
