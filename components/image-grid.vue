@@ -3,7 +3,8 @@
         <div v-for="img in 10" :key="img" class="cursor-pointer mt-2">
             <img src="https://picsum.photos/500" alt="" class="rounded-t-md">
             <div class="bg-amber-200 text-sm h-24 rounded-b-md">
-                <p class="text-center">Random name</p>
+                <p class="text-center font-medium text-lg">Random name</p>
+                <p class="text-center text-md">Kenya</p>
                 <div class="flex justify-center items-center ">
                     <p class="text-center text-xs">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.
